@@ -1,0 +1,13 @@
+{
+    "$id": "c_data.serviceDescriptionRight.pl",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "data.serviceDescriptionRight.pl",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "richTextV2",
+    "type": {
+        "richTextV2Type": {
+            "maxLength": 100000
+        }
+    }
+}

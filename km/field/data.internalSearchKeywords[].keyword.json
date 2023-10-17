@@ -1,0 +1,14 @@
+{
+    "$id": "c_data.internalSearchKeywords[].keyword",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "data.internalSearchKeywords[].keyword",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "string",
+    "type": {
+        "stringType": {
+            "stereotype": "SIMPLE",
+            "maxLength": 100000
+        }
+    }
+}

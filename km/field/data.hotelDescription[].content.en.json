@@ -1,0 +1,13 @@
+{
+    "$id": "c_data.hotelDescription[].content.en",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "data.hotelDescription[].content.en",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "richTextV2",
+    "type": {
+        "richTextV2Type": {
+            "maxLength": 100000
+        }
+    }
+}

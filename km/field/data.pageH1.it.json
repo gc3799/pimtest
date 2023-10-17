@@ -1,0 +1,14 @@
+{
+    "$id": "c_data.pageH1.it",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "data.pageH1.it",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "string",
+    "type": {
+        "stringType": {
+            "stereotype": "SIMPLE",
+            "maxLength": 100000
+        }
+    }
+}

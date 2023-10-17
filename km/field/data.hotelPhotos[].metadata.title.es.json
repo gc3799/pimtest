@@ -1,0 +1,14 @@
+{
+    "$id": "c_data.hotelPhotos[].metadata.title.es",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "data.hotelPhotos[].metadata.title.es",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "string",
+    "type": {
+        "stringType": {
+            "stereotype": "SIMPLE",
+            "maxLength": 100000
+        }
+    }
+}

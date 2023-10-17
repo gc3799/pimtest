@@ -1,0 +1,14 @@
+{
+  "$id": "c_customfield1",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "customfield1",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 100000
+    }
+  },
+  "typeId": "string"
+}

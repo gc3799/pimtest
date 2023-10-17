@@ -1,0 +1,14 @@
+{
+    "$id": "c_data.receptionOpeningHours[].FromF2_Saturday",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "data.receptionOpeningHours[].FromF2_Saturday",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "string",
+    "type": {
+        "stringType": {
+            "stereotype": "SIMPLE",
+            "maxLength": 100000
+        }
+    }
+}

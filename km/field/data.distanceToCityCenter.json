@@ -1,0 +1,8 @@
+{
+    "$id": "c_data.distanceToCityCenter",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "data.distanceToCityCenter",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "float"
+}

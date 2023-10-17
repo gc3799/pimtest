@@ -1,0 +1,11 @@
+{
+    "$id": "c_data.alertEndDate",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "data.alertEndDate",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "date",
+    "type": {
+        "dateType": {}
+    }
+}

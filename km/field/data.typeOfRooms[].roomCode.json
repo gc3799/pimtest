@@ -1,0 +1,14 @@
+{
+    "$id": "c_data.typeOfRooms[].roomCode",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "data.typeOfRooms[].roomCode",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "string",
+    "type": {
+        "stringType": {
+            "stereotype": "SIMPLE",
+            "maxLength": 100000
+        }
+    }
+}

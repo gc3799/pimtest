@@ -1,0 +1,14 @@
+{
+    "$id": "c_data.breakfastHours[].FromA_AllDays",
+    "$schema": "https://schema.yext.com/config/km/field/v1",
+    "displayName": "data.breakfastHours[].FromA_AllDays",
+    "group": "NONE",
+    "localization": "PRIMARY_ONLY",
+    "typeId": "string",
+    "type": {
+        "stringType": {
+            "stereotype": "SIMPLE",
+            "maxLength": 100000
+        }
+    }
+}
