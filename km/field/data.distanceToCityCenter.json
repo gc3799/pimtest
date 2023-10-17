@@ -4,5 +4,5 @@
     "displayName": "data.distanceToCityCenter",
     "group": "NONE",
     "localization": "PRIMARY_ONLY",
-    "typeId": "float"
+    "typeId": "decimal"
 }
